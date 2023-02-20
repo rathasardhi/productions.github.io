@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rathasardhi Productions</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Rathasardhi Productions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rathasardhi Productions</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&amp;ldquo;Hi This is Keerthisai! I’m a Shortfilm Maker.Also I’m a Youtuber &amp;ldquo;https://www.youtube.com/watch?v=xjbxZzNgHTY&amp;quot; Please check out my channel. Well I’m a Astrologer by profession. Making Videos is my hobby. I can cook too! oh! May be sometimes. I like Making so Many Friends, Watching Movies, Listen to Music.</description>
+    </item>
+    
+  </channel>
+</rss>
